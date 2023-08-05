@@ -1,4 +1,4 @@
-# Api-SistemaDeAlunos
+# Api-SistemaDeAlunos (Em desenvolvimento)
 Esta é uma api feita com NodeJs que é consumida pelo [App Alunos](https://github.com/Moyseys/App-SistemaDeAlunos), ela presta serviços como gerenciamento de usuário, gerenciamneto de alunos, gerenciamento de fotos de perfil e faz autenticação utilizando JWT.
 
 # Como iniciar 
