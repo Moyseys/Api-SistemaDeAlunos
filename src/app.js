@@ -14,7 +14,7 @@ import alunoRoutes from './routes/alunoRoutes';
 import fotoRoutes from './routes/fotoRoutes';
 
 const whiteList = [
-  'http://localhost:3000',
+  'https://app-sistema-de-alunos.vercel.app',
 ];
 
 const corsOptions = {
