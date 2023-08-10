@@ -32,14 +32,14 @@ npm run migrate
 > Somente lembrando que caso tenha usado o comando do docker você deve colocar o nome host como o nome do serviço do contêiner mysql o mesmo também serve para
 a porta do contêiner a senha e o usuário, para verificar essas informações é necessário consultar o arquivo "docker-cmopose.yaml" na raiz do projeto.
 
-# Agora com todo o ambiente configurado você deve executar o script de inicialização.
+## Agora com todo o ambiente configurado você deve executar o script de inicialização.
 ~~~~
 npm run dev
 ~~~~
 
 
 # Tecnologias principais
-- **Express** (framework)
+- **Express** (Framework)
 - **Json web token** (JWT)
 - **Multer** (Biblioteca)
 - **Sequelize** (ORM)
